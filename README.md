@@ -43,7 +43,7 @@ Related Posts:
 
 > [Deploying/Hosting Node.js app on Heroku with MySQL database](https://bezkoder.com/deploy-node-js-app-heroku-cleardb-mysql/)
 
-Security:
+Security: 
 > [Node.js Express: JWT example | Token Based Authentication & Authorization](https://bezkoder.com/node-js-jwt-authentication-mysql/)
 
 Associations:
